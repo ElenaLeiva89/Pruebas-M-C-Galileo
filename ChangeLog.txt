@@ -1,4 +1,5 @@
 Registro de cambios en el repositorio de prueba:
 Elena Leiva		14/01/2025	Subida de ChangeLog inicial
 José Berriales	16/01/2025	Prueba con Sourcetree
+Moises Valeo		16/01/2025
 Victor Escudero 16/01/2025  Prueba sourcetree
